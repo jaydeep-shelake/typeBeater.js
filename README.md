@@ -19,4 +19,5 @@
 
 
 ## 📸 Screenshots
-<img src="node-dancejs.herokuapp.com_.png" width='400px' height="auto">
+<img src="https://github.com/jaydeep-shelake/typeBeater.js/blob/master/jaydeep-shelake.github.io_typeBeater.js_.png" width='400px' height="auto">
+link:https://jaydeep-shelake.github.io/typeBeater.js/
