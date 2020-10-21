@@ -1,6 +1,6 @@
 # typeBeater.js
 <div align="center">
-  <img width="300px" src="https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/keyboard-512.png"/>
+  <img width="200px" src="https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/keyboard-512.png"/>
 </div>
 <br>
 
